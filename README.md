@@ -1,4 +1,4 @@
-# Calvin GeoCaching
+# WayFind
 
 Our team is building a Calvin geocaching and collectathon app that transforms campus into an interactive adventure. Students can explore by collecting virtual tokens at GPS locations tied to landmarks, buildings, and hidden spots, or by solving puzzles that unlock new coordinates. Users can also create their own landmarks and custom scavenger hunts, allowing the community to design challenges for others and share unique experiences. A map-based interface, digital gallery (“Calvin-dex”), and rewards such as badges, streaks, and leaderboards will encourage discovery, problem-solving, and friendly competition.
 
