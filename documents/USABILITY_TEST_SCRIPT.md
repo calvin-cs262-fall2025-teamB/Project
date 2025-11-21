@@ -62,34 +62,40 @@ Open the WayFind app for the first time and tell us your general impression. Wha
 
 I'll ask you to do some of the following tasks, depending on how much time we have:
 
-**a) Getting Started**
-You've just downloaded WayFind. Create an account and get to the main screen where you can explore adventures.
+**a)**
+Login to the app using these credentials (ignore the debug button)
+- username: AdventureSeeker
+- password: pass123
+Tell us your general impression of it. Are you tempted to click on anything? Is it clear to you what all the elements are page for?
 
-**b) Browsing Adventures**
+**b)**
 Look through the available adventures. What information do you see about each adventure? What makes one adventure more appealing than another?
 
-**c) Searching for Adventures**
-Find an adventure that sounds interesting to you using the search feature. Try searching for keywords that appeal to you.
+**c)**
+Can you easily find the adventure named "Ultimate City Explorer".
 
-**d) Filtering Adventures**
-You want to find a short, easy adventure. Use the filter system to narrow down the list. Can you find adventures based on difficulty or time commitment?
+**d)**
+You want to find a short, easy adventure.  Can you find adventures based on difficulty or time commitment?
 
-**e) Understanding Adventure Details**
-Pick an adventure and view its full details. What information can you find about it? How many tokens would you collect? How difficult is it? How long would it take?
+**e)**
+Can you locate detailed information about each adventure? How many tokens do they contain? How difficult is it? How long would it take?
 
-**f) Checking Your Profile**
+**f)**
 Find out how many adventures you've completed and how many tokens you've collected. Where can you see your personal statistics?
 
-**g) Viewing Your Completed Adventures**
-Look at the list of adventures you've already completed. Can you see what adventures you've finished?
+**g)**
+How many, and which adventures have you completed? Can you see what adventures you've finished?
 
-**h) Exploring the Map**
-Navigate to the map screen. What do you see? Can you tell where you are? What features or tools are available on the map?
+**h)**
+Where are you currently located (geographically)?  Can you tell where you are?
 
-**i) Understanding Creation Features**
+**i)**
+Can you find the Golden Gate Bridge Token?  Where is it located?
+
+**j)**
 You want to create your own adventure for others to explore. Find where you would start this process. What options or tools are available for creating content?
 
-**j) Managing Your Account**
+**k)**
 Find where you can view or edit your personal information (name, email). Where would you go to log out of the app?
 
 ### 3. Final Observations
