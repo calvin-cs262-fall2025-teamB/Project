@@ -9,7 +9,7 @@
 
 ## Introduction
 
-Thank you for agreeing to test WayFind, our location-based adventure game. We want to see first-hand what it's like for real people to use the app, which will help us improve it before launch.
+Thank you for agreeing to test WayFind, our location-based adventure app. We want to see first-hand what it's like for real people to use the app, which will help us improve it before launch.
 
 **Important things to know:**
 
@@ -64,41 +64,45 @@ I'll ask you to do some of the following tasks, depending on how much time we ha
 
 **a)**
 Login to the app using these credentials (ignore the debug button)
-- username: AdventureSeeker
-- password: pass123
+- username: dev
+- password: b
+
 Tell us your general impression of it. Are you tempted to click on anything? Is it clear to you what all the elements are page for?
 
 **b)**
 Look through the available adventures. What information do you see about each adventure? What makes one adventure more appealing than another?
 
 **c)**
-Can you easily find the adventure named "Ultimate City Explorer".
+Can you easily find the adventure named "Test Zone Alpha"?  How many tokens does it contain?  How difficult is it? How long would it take?
 
 **d)**
 You want to find a short, easy adventure.  Can you find adventures based on difficulty or time commitment?
 
 **e)**
-Can you locate detailed information about each adventure? How many tokens do they contain? How difficult is it? How long would it take?
-
-**f)**
 Find out how many adventures you've completed and how many tokens you've collected. Where can you see your personal statistics?
 
-**g)**
+**f)**
 How many, and which adventures have you completed? Can you see what adventures you've finished?
 
-**h)**
+**g)**
 Where are you currently located (geographically)?  Can you tell where you are?
 
-**i)**
+**h)**
 Can you find the Golden Gate Bridge Token?  Where is it located?
 
-**j)**
-You want to create your own adventure for others to explore. Find where you would start this process. What options or tools are available for creating content?
+**i)**
+Find where you can view or edit your personal information (name, email). Where would you go to log out of the app? (Do not log out)
 
-**k)**
-Find where you can view or edit your personal information (name, email). Where would you go to log out of the app?
+## 3. Creation
+**a)**
+You want to create your own adventure for others to explore. Find where you would start this process.
 
-### 3. Final Observations
+**b)**
+
+## 4. Playing
+**a)**
+
+### 5. Final Observations
 
 Do you have any final observations on the app? Would you consider using it? What would make you want to use it regularly or recommend it to friends?
 
