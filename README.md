@@ -19,6 +19,11 @@ While apps like Pokémon GO or general geocaching platforms provide broad, globa
 ## Presentation
 [Presentation](https://docs.google.com/presentation/d/13t0XVWTMVhVRiyeOAv0WBH-gdlp2Hm_qbb14paU_SnU/edit?usp=sharing)
 
+## User Tests
+[Usability Test Script](https://github.com/calvin-cs262-fall2025-teamB/Project/blob/main/documents/USABILITY_TEST_SCRIPT.md)
+
+[Usability Test Results](https://github.com/calvin-cs262-fall2025-teamB/Project/blob/main/documents/WayFind%20Usability%20Test%20Report.pdf)
+
 ## Repositories
 [Client](https://github.com/calvin-cs262-fall2025-teamB/Client)
 
