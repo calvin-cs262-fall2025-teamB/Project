@@ -16,6 +16,8 @@ While apps like Pokémon GO or general geocaching platforms provide broad, globa
 
 [UI Model](https://github.com/calvin-cs262-fall2025-teamB/Project/blob/main/models/UI%20Model.png)
 
+[Deployment Diagram](https://github.com/calvin-cs262-fall2025-teamB/Project/blob/main/models/DeploymentDiagram.png)
+
 ## Presentation
 [Presentation](https://docs.google.com/presentation/d/13t0XVWTMVhVRiyeOAv0WBH-gdlp2Hm_qbb14paU_SnU/edit?usp=sharing)
 
