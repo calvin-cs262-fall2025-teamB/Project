@@ -14,7 +14,7 @@ While apps like Pokémon GO or general geocaching platforms provide broad, globa
 ## Design Models
 [Domain Model](https://github.com/calvin-cs262-fall2025-teamB/Project/blob/main/models/WayFind%20Domain%20Model.pdf)
 
-[UI Model](https://github.com/calvin-cs262-fall2025-teamB/Project/blob/main/models/UI%20Model.png)
+[UI Model]([https://github.com/calvin-cs262-fall2025-teamB/Project/blob/main/models/UI%20Model.png](https://github.com/calvin-cs262-fall2025-teamB/Project/blob/main/models/WayFind%20Domain%20Model.pdf))
 
 [Deployment Diagram](https://github.com/calvin-cs262-fall2025-teamB/Project/blob/main/models/DeploymentDiagram.png)
 
