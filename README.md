@@ -12,7 +12,7 @@ While apps like Pokémon GO or general geocaching platforms provide broad, globa
 - Samuel Ntadom
 
 ## Design Models
-[Domain Model](https://github.com/calvin-cs262-fall2025-teamB/Project/blob/main/models/WayFind%20Domain%20Model.pdf)
+[Domain Model](https://github.com/calvin-cs262-fall2025-teamB/Project/blob/main/models/WayFind_Domain_Model.drawio.pdf)
 
 [UI Model](https://github.com/calvin-cs262-fall2025-teamB/Project/blob/main/models/WayFind%20UI%20Model.pdf)
 
